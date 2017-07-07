@@ -1,0 +1,754 @@
+{
+  "testPoint": "2008-03-01T00:27:00",
+  "children": {
+    "0": {
+      "testPoint": "2005-04-01T00:27:00",
+      "children": {
+        "0": {
+          "testPoint": "2008-07-01T00:27:00",
+          "children": {
+            "0": "Atlantic/Reykjavik",
+            "60": "Africa/Casablanca"
+          }
+        },
+        "120": "Antarctica/Troll",
+        "60": "Europe/London"
+      }
+    },
+    "480": {
+      "testPoint": "2011-11-01T00:27:00",
+      "children": {
+        "480": {
+          "testPoint": "2001-05-01T00:27:00",
+          "children": {
+            "480": "Asia/Hong_Kong",
+            "540": "Asia/Ulaanbaatar"
+          }
+        },
+        "540": "Asia/Irkutsk",
+        "660": "Antarctica/Casey"
+      }
+    },
+    "-60": {
+      "testPoint": "2000-04-01T00:27:00",
+      "children": {
+        "0": "America/Scoresbysund",
+        "-60": "Atlantic/Cape_Verde"
+      }
+    },
+    "-570": "Pacific/Marquesas",
+    "-120": {
+      "testPoint": "2004-06-01T00:27:00",
+      "children": {
+        "-240": {
+          "testPoint": "2004-07-01T00:27:00",
+          "children": {
+            "-240": {
+              "testPoint": "2004-08-01T00:27:00",
+              "children": {
+                "-240": "America/Argentina/Mendoza",
+                "-180": "America/Argentina/San_Juan"
+              }
+            },
+            "-180": {
+              "testPoint": "2008-11-01T00:27:00",
+              "children": {
+                "-120": "America/Argentina/Tucuman",
+                "-180": "America/Argentina/Ushuaia"
+              }
+            }
+          }
+        },
+        "-120": {
+          "testPoint": "2000-01-01T00:27:00",
+          "children": {
+            "-120": "Atlantic/South_Georgia",
+            "-60": "America/Noronha"
+          }
+        },
+        "-180": {
+          "testPoint": "2004-10-01T00:27:00",
+          "children": {
+            "-120": "America/Montevideo",
+            "-180": {
+              "testPoint": "2008-11-01T00:27:00",
+              "children": {
+                "-120": "America/Argentina/Buenos_Aires",
+                "-180": "America/Argentina/Jujuy"
+              }
+            }
+          }
+        }
+      }
+    },
+    "585": "Australia/Eucla",
+    "330": {
+      "testPoint": "2000-01-01T00:27:00",
+      "children": {
+        "360": "Asia/Colombo",
+        "330": "Asia/Kolkata"
+      }
+    },
+    "780": {
+      "testPoint": "2000-01-01T00:27:00",
+      "children": {
+        "840": "Pacific/Tongatapu",
+        "780": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "720": "Pacific/Auckland",
+            "780": "Pacific/Enderbury"
+          }
+        }
+      }
+    },
+    "270": "Asia/Kabul",
+    "720": {
+      "testPoint": "2010-11-01T00:27:00",
+      "children": {
+        "720": "Pacific/Tarawa",
+        "780": "Pacific/Fiji",
+        "660": "Asia/Kamchatka"
+      }
+    },
+    "-360": {
+      "testPoint": "2000-11-01T00:27:00",
+      "children": {
+        "-360": {
+          "testPoint": "2000-05-01T00:27:00",
+          "children": {
+            "-360": {
+              "testPoint": "2006-05-01T00:27:00",
+              "children": {
+                "-360": {
+                  "testPoint": "2006-06-01T00:27:00",
+                  "children": {
+                    "-360": "America/Costa_Rica",
+                    "-300": "America/Tegucigalpa"
+                  }
+                },
+                "-300": {
+                  "testPoint": "2005-05-01T00:27:00",
+                  "children": {
+                    "-360": "America/Guatemala",
+                    "-300": "America/Managua"
+                  }
+                }
+              }
+            },
+            "-300": {
+              "testPoint": "2010-04-01T00:27:00",
+              "children": {
+                "-360": {
+                  "testPoint": "2015-03-01T00:27:00",
+                  "children": {
+                    "-360": "America/Mexico_City",
+                    "-300": "America/Cancun"
+                  }
+                },
+                "-300": {
+                  "testPoint": "2001-05-01T00:27:00",
+                  "children": {
+                    "-360": "America/Matamoros",
+                    "-300": "America/Chicago"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "-420": "America/North_Dakota/New_Salem",
+        "-300": {
+          "testPoint": "2000-01-01T00:27:00",
+          "children": {
+            "-360": {
+              "testPoint": "2006-11-01T00:27:00",
+              "children": {
+                "-360": "America/Rankin_Inlet",
+                "-300": "America/Resolute"
+              }
+            },
+            "-300": "America/Indiana/Knox"
+          }
+        }
+      }
+    },
+    "210": "Asia/Tehran",
+    "-300": {
+      "testPoint": "2005-05-01T00:27:00",
+      "children": {
+        "-240": {
+          "testPoint": "2000-05-01T00:27:00",
+          "children": {
+            "-240": {
+              "testPoint": "2004-04-01T00:27:00",
+              "children": {
+                "-240": "America/Havana",
+                "-300": {
+                  "testPoint": "2015-12-01T00:27:00",
+                  "children": {
+                    "-240": "America/Grand_Turk",
+                    "-300": "America/New_York"
+                  }
+                }
+              }
+            },
+            "-300": {
+              "testPoint": "2000-01-01T00:27:00",
+              "children": {
+                "-360": "America/Kentucky/Monticello",
+                "-300": "America/Port-au-Prince"
+              }
+            }
+          }
+        },
+        "-360": "Pacific/Easter",
+        "-300": {
+          "testPoint": "2006-11-01T00:27:00",
+          "children": {
+            "-360": {
+              "testPoint": "2007-04-01T00:27:00",
+              "children": {
+                "-240": "America/Indiana/Winamac",
+                "-300": "America/Indiana/Petersburg"
+              }
+            },
+            "-300": {
+              "testPoint": "2006-05-01T00:27:00",
+              "children": {
+                "-240": "America/Indiana/Indianapolis",
+                "-300": {
+                  "testPoint": "2008-07-01T00:27:00",
+                  "children": {
+                    "-240": "America/Eirunepe",
+                    "-300": "America/Bogota"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "600": {
+      "testPoint": "2016-04-01T00:27:00",
+      "children": {
+        "600": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "600": "Australia/Brisbane",
+            "660": "Asia/Vladivostok"
+          }
+        },
+        "540": "Asia/Khandyga",
+        "660": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "600": "Pacific/Bougainville",
+            "660": "Asia/Sakhalin"
+          }
+        }
+      }
+    },
+    "345": "Asia/Kathmandu",
+    "540": {
+      "testPoint": "2000-04-01T00:27:00",
+      "children": {
+        "600": {
+          "testPoint": "2014-11-01T00:27:00",
+          "children": {
+            "480": "Asia/Chita",
+            "540": "Asia/Yakutsk"
+          }
+        },
+        "480": {
+          "testPoint": "2000-10-01T00:27:00",
+          "children": {
+            "480": "Australia/Perth",
+            "540": "Asia/Dili"
+          }
+        },
+        "540": {
+          "testPoint": "2015-10-01T00:27:00",
+          "children": {
+            "480": "Asia/Choibalsan",
+            "540": "Asia/Tokyo",
+            "510": "Asia/Pyongyang"
+          }
+        }
+      }
+    },
+    "-180": {
+      "testPoint": "2004-06-01T00:27:00",
+      "children": {
+        "-240": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "-240": {
+              "testPoint": "2002-04-01T00:27:00",
+              "children": {
+                "-240": {
+                  "testPoint": "2017-06-01T00:27:00",
+                  "children": {
+                    "-240": "America/Santiago",
+                    "-180": "America/Punta_Arenas"
+                  }
+                },
+                "-180": "America/Asuncion"
+              }
+            },
+            "-180": {
+              "testPoint": "2000-05-01T00:27:00",
+              "children": {
+                "-240": "Atlantic/Stanley",
+                "-180": "America/Argentina/San_Luis"
+              }
+            }
+          }
+        },
+        "-120": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "-120": "America/Godthab",
+            "-180": "America/Miquelon"
+          }
+        },
+        "-180": {
+          "testPoint": "2000-11-01T00:27:00",
+          "children": {
+            "-120": {
+              "testPoint": "2003-11-01T00:27:00",
+              "children": {
+                "-120": "America/Sao_Paulo",
+                "-180": {
+                  "testPoint": "2011-11-01T00:27:00",
+                  "children": {
+                    "-120": "America/Bahia",
+                    "-180": "America/Araguaina"
+                  }
+                }
+              }
+            },
+            "-180": {
+              "testPoint": "2000-01-01T00:27:00",
+              "children": {
+                "-120": "America/Recife",
+                "-180": "America/Cayenne"
+              }
+            }
+          }
+        }
+      }
+    },
+    "360": {
+      "testPoint": "2010-04-01T00:27:00",
+      "children": {
+        "360": {
+          "testPoint": "2000-01-01T00:27:00",
+          "children": {
+            "360": {
+              "testPoint": "2000-04-01T00:27:00",
+              "children": {
+                "360": {
+                  "testPoint": "2009-07-01T00:27:00",
+                  "children": {
+                    "360": "Asia/Thimphu",
+                    "420": "Asia/Dhaka"
+                  }
+                },
+                "420": "Asia/Almaty"
+              }
+            },
+            "300": {
+              "testPoint": "2004-11-01T00:27:00",
+              "children": {
+                "360": "Asia/Qyzylorda",
+                "300": "Asia/Bishkek"
+              }
+            }
+          }
+        },
+        "300": "Antarctica/Mawson",
+        "420": {
+          "testPoint": "2016-06-01T00:27:00",
+          "children": {
+            "360": {
+              "testPoint": "2016-08-01T00:27:00",
+              "children": {
+                "360": "Asia/Omsk",
+                "420": "Asia/Novosibirsk"
+              }
+            },
+            "420": {
+              "testPoint": "2000-01-01T00:27:00",
+              "children": {
+                "360": "Asia/Barnaul",
+                "420": "Asia/Tomsk"
+              }
+            }
+          }
+        }
+      }
+    },
+    "-480": {
+      "testPoint": "2015-12-01T00:27:00",
+      "children": {
+        "-480": {
+          "testPoint": "2000-05-01T00:27:00",
+          "children": {
+            "-480": "Pacific/Pitcairn",
+            "-420": {
+              "testPoint": "2007-04-01T00:27:00",
+              "children": {
+                "-480": "America/Tijuana",
+                "-420": "America/Los_Angeles"
+              }
+            }
+          }
+        },
+        "-540": "America/Metlakatla",
+        "-420": "America/Fort_Nelson"
+      }
+    },
+    "-240": {
+      "testPoint": "2000-11-01T00:27:00",
+      "children": {
+        "-240": {
+          "testPoint": "2000-05-01T00:27:00",
+          "children": {
+            "-240": {
+              "testPoint": "2000-01-01T00:27:00",
+              "children": {
+                "-240": {
+                  "testPoint": "2008-07-01T00:27:00",
+                  "children": {
+                    "-240": "America/St_Thomas",
+                    "-180": "America/Santarem"
+                  }
+                },
+                "-180": "America/Boa_Vista"
+              }
+            },
+            "-180": {
+              "testPoint": "2009-11-01T00:27:00",
+              "children": {
+                "-240": "America/Goose_Bay",
+                "-180": "America/Halifax"
+              }
+            }
+          }
+        },
+        "-180": {
+          "testPoint": "2003-11-01T00:27:00",
+          "children": {
+            "-240": "America/Cuiaba",
+            "-180": "America/Campo_Grande"
+          }
+        },
+        "-300": "America/Santo_Domingo"
+      }
+    },
+    "420": {
+      "testPoint": "2011-11-01T00:27:00",
+      "children": {
+        "480": "Asia/Krasnoyarsk",
+        "300": "Antarctica/Davis",
+        "420": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "480": "Asia/Novokuznetsk",
+            "420": {
+              "testPoint": "2001-05-01T00:27:00",
+              "children": {
+                "480": "Asia/Hovd",
+                "420": "Asia/Bangkok"
+              }
+            }
+          }
+        }
+      }
+    },
+    "390": "Asia/Yangon",
+    "-600": {
+      "testPoint": "2000-05-01T00:27:00",
+      "children": {
+        "-600": "Pacific/Honolulu",
+        "-540": "America/Adak"
+      }
+    },
+    "-420": {
+      "testPoint": "2011-04-01T00:27:00",
+      "children": {
+        "-360": {
+          "testPoint": "2001-05-01T00:27:00",
+          "children": {
+            "-360": {
+              "testPoint": "2000-01-01T00:27:00",
+              "children": {
+                "-360": "America/Cambridge_Bay",
+                "-420": "America/Denver"
+              }
+            },
+            "-420": {
+              "testPoint": "2010-04-01T00:27:00",
+              "children": {
+                "-360": "America/Ojinaga",
+                "-420": "America/Bahia_Banderas"
+              }
+            }
+          }
+        },
+        "-420": {
+          "testPoint": "2000-05-01T00:27:00",
+          "children": {
+            "-360": "America/Mazatlan",
+            "-420": "America/Phoenix"
+          }
+        },
+        "-300": "America/North_Dakota/Beulah"
+      }
+    },
+    "300": {
+      "testPoint": "2000-04-01T00:27:00",
+      "children": {
+        "360": {
+          "testPoint": "2005-04-01T00:27:00",
+          "children": {
+            "360": "Asia/Yekaterinburg",
+            "300": "Asia/Aqtobe"
+          }
+        },
+        "300": {
+          "testPoint": "2000-01-01T00:27:00",
+          "children": {
+            "240": "Asia/Atyrau",
+            "300": {
+              "testPoint": "2002-05-01T00:27:00",
+              "children": {
+                "360": "Asia/Karachi",
+                "300": "Asia/Tashkent"
+              }
+            }
+          }
+        }
+      }
+    },
+    "-540": {
+      "testPoint": "2000-05-01T00:27:00",
+      "children": {
+        "-480": "America/Juneau",
+        "-540": "Pacific/Gambier"
+      }
+    },
+    "-210": "America/St_Johns",
+    "240": {
+      "testPoint": "2004-07-01T00:27:00",
+      "children": {
+        "240": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "240": {
+              "testPoint": "2008-11-01T00:27:00",
+              "children": {
+                "240": "Indian/Reunion",
+                "300": "Indian/Mauritius"
+              }
+            },
+            "300": "Asia/Tbilisi"
+          }
+        },
+        "300": {
+          "testPoint": "2010-04-01T00:27:00",
+          "children": {
+            "240": "Europe/Samara",
+            "300": {
+              "testPoint": "2012-04-01T00:27:00",
+              "children": {
+                "240": "Asia/Yerevan",
+                "300": "Asia/Baku"
+              }
+            }
+          }
+        }
+      }
+    },
+    "840": "Pacific/Kiritimati",
+    "690": "Pacific/Norfolk",
+    "180": {
+      "testPoint": "2000-04-01T00:27:00",
+      "children": {
+        "240": {
+          "testPoint": "2016-04-01T00:27:00",
+          "children": {
+            "240": "Europe/Ulyanovsk",
+            "180": {
+              "testPoint": "2017-01-01T00:27:00",
+              "children": {
+                "240": "Europe/Saratov",
+                "180": "Europe/Moscow"
+              }
+            }
+          }
+        },
+        "180": {
+          "testPoint": "2000-01-01T00:27:00",
+          "children": {
+            "120": "Africa/Khartoum",
+            "180": {
+              "testPoint": "2000-05-01T00:27:00",
+              "children": {
+                "240": "Asia/Baghdad",
+                "180": "Asia/Riyadh"
+              }
+            }
+          }
+        }
+      }
+    },
+    "-270": "America/Caracas",
+    "630": "Australia/Adelaide",
+    "120": {
+      "testPoint": "2014-05-01T00:27:00",
+      "children": {
+        "120": {
+          "testPoint": "2000-05-01T00:27:00",
+          "children": {
+            "120": {
+              "testPoint": "2012-12-01T00:27:00",
+              "children": {
+                "120": "Africa/Johannesburg",
+                "60": "Africa/Tripoli"
+              }
+            },
+            "180": "Africa/Cairo"
+          }
+        },
+        "240": "Europe/Simferopol",
+        "180": {
+          "testPoint": "2000-04-01T00:27:00",
+          "children": {
+            "120": {
+              "testPoint": "2000-05-01T00:27:00",
+              "children": {
+                "120": {
+                  "testPoint": "2001-04-01T00:27:00",
+                  "children": {
+                    "120": {
+                      "testPoint": "2002-04-01T00:27:00",
+                      "children": {
+                        "120": "Europe/Vilnius",
+                        "180": "Europe/Tallinn"
+                      }
+                    },
+                    "180": "Europe/Riga"
+                  }
+                },
+                "180": {
+                  "testPoint": "2001-10-01T00:27:00",
+                  "children": {
+                    "120": {
+                      "testPoint": "2000-10-01T00:27:00",
+                      "children": {
+                        "120": "Asia/Damascus",
+                        "180": "Asia/Jerusalem"
+                      }
+                    },
+                    "180": {
+                      "testPoint": "2011-09-01T00:27:00",
+                      "children": {
+                        "120": "Asia/Gaza",
+                        "180": "Asia/Hebron"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "180": {
+              "testPoint": "2012-11-01T00:27:00",
+              "children": {
+                "120": {
+                  "testPoint": "2015-11-01T00:27:00",
+                  "children": {
+                    "120": {
+                      "testPoint": "2016-11-01T00:27:00",
+                      "children": {
+                        "120": "Europe/Athens",
+                        "180": "Asia/Famagusta"
+                      }
+                    },
+                    "180": "Europe/Istanbul"
+                  }
+                },
+                "180": {
+                  "testPoint": "2000-10-01T00:27:00",
+                  "children": {
+                    "120": "Asia/Amman",
+                    "180": {
+                      "testPoint": "2014-11-01T00:27:00",
+                      "children": {
+                        "120": "Europe/Kaliningrad",
+                        "180": "Europe/Minsk"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "60": "Africa/Windhoek"
+      }
+    },
+    "825": "Pacific/Chatham",
+    "570": "Australia/Darwin",
+    "660": {
+      "testPoint": "2000-04-01T00:27:00",
+      "children": {
+        "600": {
+          "testPoint": "2010-05-01T00:27:00",
+          "children": {
+            "600": "Australia/Sydney",
+            "660": "Antarctica/Macquarie"
+          }
+        },
+        "720": {
+          "testPoint": "2011-10-01T00:27:00",
+          "children": {
+            "720": {
+              "testPoint": "2014-11-01T00:27:00",
+              "children": {
+                "600": "Asia/Magadan",
+                "660": "Asia/Srednekolymsk"
+              }
+            },
+            "660": "Asia/Ust-Nera"
+          }
+        },
+        "660": "Pacific/Guadalcanal",
+        "630": "Australia/Lord_Howe"
+      }
+    },
+    "60": {
+      "testPoint": "2000-04-01T00:27:00",
+      "children": {
+        "120": "Europe/Paris",
+        "60": {
+          "testPoint": "2005-06-01T00:27:00",
+          "children": {
+            "120": "Africa/Tunis",
+            "60": "Africa/Luanda"
+          }
+        }
+      }
+    },
+    "-660": {
+      "testPoint": "2012-01-01T00:27:00",
+      "children": {
+        "840": "Pacific/Apia",
+        "780": "Pacific/Fakaofo",
+        "-660": "Pacific/Midway"
+      }
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "Africa/Casablanca": [
+    "Africa/El_Aaiun"
+  ],
+  "Africa/Johannesburg": [
+    "Africa/Blantyre",
+    "Africa/Bujumbura",
+    "Africa/Gaborone",
+    "Africa/Harare",
+    "Africa/Kigali",
+    "Africa/Lubumbashi",
+    "Africa/Lusaka",
+    "Africa/Maputo",
+    "Africa/Maseru",
+    "Africa/Mbabane"
+  ],
+  "Africa/Khartoum": [
+    "Africa/Juba"
+  ],
+  "Africa/Luanda": [
+    "Africa/Algiers",
+    "Africa/Bangui",
+    "Africa/Brazzaville",
+    "Africa/Douala",
+    "Africa/Kinshasa",
+    "Africa/Lagos",
+    "Africa/Libreville",
+    "Africa/Malabo",
+    "Africa/Ndjamena",
+    "Africa/Niamey",
+    "Africa/Porto-Novo"
+  ],
+  "America/Argentina/Buenos_Aires": [
+    "America/Argentina/Cordoba"
+  ],
+  "America/Argentina/Jujuy": [
+    "America/Argentina/Salta"
+  ],
+  "America/Argentina/Ushuaia": [
+    "America/Argentina/Catamarca",
+    "America/Argentina/La_Rioja",
+    "America/Argentina/Rio_Gallegos"
+  ],
+  "America/Bogota": [
+    "America/Atikokan",
+    "America/Cayman",
+    "America/Guayaquil",
+    "America/Jamaica",
+    "America/Lima",
+    "America/Panama"
+  ],
+  "America/Cayenne": [
+    "America/Belem",
+    "America/Paramaribo",
+    "Antarctica/Rothera"
+  ],
+  "America/Chicago": [
+    "America/Menominee",
+    "America/North_Dakota/Center",
+    "America/Rainy_River",
+    "America/Winnipeg"
+  ],
+  "America/Costa_Rica": [
+    "America/Belize",
+    "America/El_Salvador",
+    "America/Regina",
+    "America/Swift_Current",
+    "Pacific/Galapagos"
+  ],
+  "America/Denver": [
+    "America/Boise",
+    "America/Edmonton",
+    "America/Inuvik",
+    "America/Yellowknife"
+  ],
+  "America/Eirunepe": [
+    "America/Rio_Branco"
+  ],
+  "America/Halifax": [
+    "America/Glace_Bay",
+    "America/Moncton",
+    "America/Thule",
+    "Atlantic/Bermuda"
+  ],
+  "America/Indiana/Indianapolis": [
+    "America/Indiana/Marengo",
+    "America/Indiana/Vevay"
+  ],
+  "America/Indiana/Knox": [
+    "America/Indiana/Tell_City"
+  ],
+  "America/Indiana/Petersburg": [
+    "America/Indiana/Vincennes"
+  ],
+  "America/Juneau": [
+    "America/Anchorage",
+    "America/Nome",
+    "America/Sitka",
+    "America/Yakutat"
+  ],
+  "America/Kentucky/Monticello": [
+    "America/Iqaluit",
+    "America/Pangnirtung"
+  ],
+  "America/Los_Angeles": [
+    "America/Dawson",
+    "America/Vancouver",
+    "America/Whitehorse"
+  ],
+  "America/Mazatlan": [
+    "America/Chihuahua"
+  ],
+  "America/Mexico_City": [
+    "America/Merida",
+    "America/Monterrey"
+  ],
+  "America/New_York": [
+    "America/Detroit",
+    "America/Kentucky/Louisville",
+    "America/Nassau",
+    "America/Nipigon",
+    "America/Thunder_Bay",
+    "America/Toronto"
+  ],
+  "America/Phoenix": [
+    "America/Creston",
+    "America/Dawson_Creek",
+    "America/Hermosillo"
+  ],
+  "America/Punta_Arenas": [
+    "Antarctica/Palmer"
+  ],
+  "America/Recife": [
+    "America/Fortaleza",
+    "America/Maceio"
+  ],
+  "America/Scoresbysund": [
+    "Atlantic/Azores"
+  ],
+  "America/St_Thomas": [
+    "America/Anguilla",
+    "America/Antigua",
+    "America/Aruba",
+    "America/Barbados",
+    "America/Blanc-Sablon",
+    "America/Curacao",
+    "America/Dominica",
+    "America/Grenada",
+    "America/Guadeloupe",
+    "America/Guyana",
+    "America/Kralendijk",
+    "America/La_Paz",
+    "America/Lower_Princes",
+    "America/Manaus",
+    "America/Marigot",
+    "America/Martinique",
+    "America/Montserrat",
+    "America/Port_of_Spain",
+    "America/Porto_Velho",
+    "America/Puerto_Rico",
+    "America/St_Barthelemy",
+    "America/St_Kitts",
+    "America/St_Lucia",
+    "America/St_Vincent",
+    "America/Tortola"
+  ],
+  "Asia/Atyrau": [
+    "Asia/Aqtau",
+    "Asia/Oral"
+  ],
+  "Asia/Bangkok": [
+    "Asia/Ho_Chi_Minh",
+    "Asia/Jakarta",
+    "Asia/Phnom_Penh",
+    "Asia/Pontianak",
+    "Asia/Vientiane",
+    "Indian/Christmas"
+  ],
+  "Asia/Hong_Kong": [
+    "Asia/Brunei",
+    "Asia/Kuala_Lumpur",
+    "Asia/Kuching",
+    "Asia/Macau",
+    "Asia/Makassar",
+    "Asia/Manila",
+    "Asia/Shanghai",
+    "Asia/Singapore",
+    "Asia/Taipei"
+  ],
+  "Asia/Kamchatka": [
+    "Asia/Anadyr"
+  ],
+  "Asia/Riyadh": [
+    "Africa/Addis_Ababa",
+    "Africa/Asmara",
+    "Africa/Dar_es_Salaam",
+    "Africa/Djibouti",
+    "Africa/Kampala",
+    "Africa/Mogadishu",
+    "Africa/Nairobi",
+    "Antarctica/Syowa",
+    "Asia/Aden",
+    "Asia/Bahrain",
+    "Asia/Kuwait",
+    "Asia/Qatar",
+    "Indian/Antananarivo",
+    "Indian/Comoro",
+    "Indian/Mayotte"
+  ],
+  "Asia/Tashkent": [
+    "Asia/Ashgabat",
+    "Asia/Dushanbe",
+    "Asia/Samarkand",
+    "Indian/Kerguelen",
+    "Indian/Maldives"
+  ],
+  "Asia/Thimphu": [
+    "Antarctica/Vostok",
+    "Asia/Urumqi",
+    "Indian/Chagos"
+  ],
+  "Asia/Tokyo": [
+    "Asia/Jayapura",
+    "Asia/Seoul",
+    "Pacific/Palau"
+  ],
+  "Asia/Yangon": [
+    "Indian/Cocos"
+  ],
+  "Atlantic/Reykjavik": [
+    "Africa/Abidjan",
+    "Africa/Accra",
+    "Africa/Bamako",
+    "Africa/Banjul",
+    "Africa/Bissau",
+    "Africa/Conakry",
+    "Africa/Dakar",
+    "Africa/Freetown",
+    "Africa/Lome",
+    "Africa/Monrovia",
+    "Africa/Nouakchott",
+    "Africa/Ouagadougou",
+    "Africa/Sao_Tome",
+    "America/Danmarkshavn",
+    "Atlantic/St_Helena"
+  ],
+  "Australia/Adelaide": [
+    "Australia/Broken_Hill"
+  ],
+  "Australia/Brisbane": [
+    "Antarctica/DumontDUrville",
+    "Australia/Lindeman",
+    "Pacific/Chuuk",
+    "Pacific/Guam",
+    "Pacific/Port_Moresby",
+    "Pacific/Saipan"
+  ],
+  "Australia/Sydney": [
+    "Australia/Currie",
+    "Australia/Hobart",
+    "Australia/Melbourne"
+  ],
+  "Europe/Athens": [
+    "Asia/Beirut",
+    "Asia/Nicosia",
+    "Europe/Bucharest",
+    "Europe/Chisinau",
+    "Europe/Helsinki",
+    "Europe/Kiev",
+    "Europe/Mariehamn",
+    "Europe/Sofia",
+    "Europe/Uzhgorod",
+    "Europe/Zaporozhye"
+  ],
+  "Europe/London": [
+    "Atlantic/Canary",
+    "Atlantic/Faroe",
+    "Atlantic/Madeira",
+    "Europe/Dublin",
+    "Europe/Guernsey",
+    "Europe/Isle_of_Man",
+    "Europe/Jersey",
+    "Europe/Lisbon"
+  ],
+  "Europe/Moscow": [
+    "Europe/Kirov",
+    "Europe/Volgograd"
+  ],
+  "Europe/Paris": [
+    "Africa/Ceuta",
+    "Arctic/Longyearbyen",
+    "Europe/Amsterdam",
+    "Europe/Andorra",
+    "Europe/Belgrade",
+    "Europe/Berlin",
+    "Europe/Bratislava",
+    "Europe/Brussels",
+    "Europe/Budapest",
+    "Europe/Busingen",
+    "Europe/Copenhagen",
+    "Europe/Gibraltar",
+    "Europe/Ljubljana",
+    "Europe/Luxembourg",
+    "Europe/Madrid",
+    "Europe/Malta",
+    "Europe/Monaco",
+    "Europe/Oslo",
+    "Europe/Podgorica",
+    "Europe/Prague",
+    "Europe/Rome",
+    "Europe/San_Marino",
+    "Europe/Sarajevo",
+    "Europe/Skopje",
+    "Europe/Stockholm",
+    "Europe/Tirane",
+    "Europe/Vaduz",
+    "Europe/Vatican",
+    "Europe/Vienna",
+    "Europe/Warsaw",
+    "Europe/Zagreb",
+    "Europe/Zurich"
+  ],
+  "Europe/Ulyanovsk": [
+    "Europe/Astrakhan"
+  ],
+  "Indian/Reunion": [
+    "Asia/Dubai",
+    "Asia/Muscat",
+    "Indian/Mahe"
+  ],
+  "Pacific/Auckland": [
+    "Antarctica/McMurdo"
+  ],
+  "Pacific/Guadalcanal": [
+    "Pacific/Efate",
+    "Pacific/Kosrae",
+    "Pacific/Noumea",
+    "Pacific/Pohnpei"
+  ],
+  "Pacific/Honolulu": [
+    "Pacific/Rarotonga",
+    "Pacific/Tahiti"
+  ],
+  "Pacific/Midway": [
+    "Pacific/Niue",
+    "Pacific/Pago_Pago"
+  ],
+  "Pacific/Tarawa": [
+    "Pacific/Funafuti",
+    "Pacific/Kwajalein",
+    "Pacific/Majuro",
+    "Pacific/Nauru",
+    "Pacific/Wake",
+    "Pacific/Wallis"
+  ]
+}
