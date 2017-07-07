@@ -99,9 +99,11 @@ class Node:
         return ret
 
 
+print("Generating test points")
 test_points = [datetime(year, month, 1, 0, 27)
                for year in range(2000, 2018) for month in range(1, 13)]
 all_timezones = sorted(set(sum(pytz.country_timezones.values(), [])))
+print("Obtained %d timezones from pytz" % len(all_timezones))
 with open(os.path.join(dirname, 'equivalencies.json'), 'rt') as f:
     preferred_timezones = list(json.load(f))
 vectors = dedup({
@@ -109,6 +111,8 @@ vectors = dedup({
     for tz in all_timezones
 }, preferred_timezones)
 unique_timezones = sorted(vectors)
+print("Found %d unique timezones based on test points" % len(unique_timezones))
+
 parent_table = Table(
     data=tuple(map(tuple, zip(*(vectors[tz] for tz in unique_timezones)))),
     row_names=unique_timezones,
@@ -126,6 +130,7 @@ def make_tree(table: Table):
 
 
 tree = make_tree(parent_table)
+print('Generated decision tree with depth %d' % tree.max_depth())
 equivalencies = OrderedDict()
 for tz in unique_timezones:
     equivalencies[tz] = []
@@ -143,10 +148,13 @@ for k, e in tuple(equivalencies.items()):
 with open(os.path.join(dirname, 'js', 'tz-tree.json'), 'wt') as f:
     json.dump(tree.serialize(), f, indent=2)
     f.write('\n')
+print('Wrote tz-tree.json')
 
 with open(os.path.join(dirname, 'js', 'tz-tree.min.json'), 'wt') as f:
     json.dump(tree.serialize(), f, indent=None, separators=(',', ':'))
+print('Wrote tz-tree.min.json')
 
 with open(os.path.join(dirname, 'equivalencies.json'), 'wt') as f:
     json.dump(equivalencies, f, indent=2)
     f.write('\n')
+print('Wrote equivalencies.json')
